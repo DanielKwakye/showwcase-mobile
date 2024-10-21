@@ -1,0 +1,45 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_url_launcher_iosVersionNumber",
+            "_url_launcher_iosVersionString"
+          ],
+          "objc_class": [
+            "FLTURLLaunchSession",
+            "FLTURLLauncherPlugin",
+            "FULUIApplicationLauncher",
+            "PodsDummy_url_launcher_ios"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FULUrlLauncherApiGetCodec",
+            "_FULUrlLauncherApiSetup"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/url_launcher_ios.framework/url_launcher_ios"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

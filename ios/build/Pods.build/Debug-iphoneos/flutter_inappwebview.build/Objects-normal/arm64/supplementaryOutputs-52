@@ -1,0 +1,30 @@
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebViewTransport.swift":
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebViewTransport.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebViewTransport.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebViewTransport.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebViewTransport.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebViewTransport.swiftdeps"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WindowIdJS.swift":
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WindowIdJS.swiftdeps"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WindowIdJS.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WindowIdJS.o"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WindowIdJS.d"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WindowIdJS.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKNavigationAction.swift":
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKNavigationAction.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKNavigationAction.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKNavigationAction.o"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKNavigationAction.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKNavigationAction.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKContentWorld.swift":
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKContentWorld.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKContentWorld.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKContentWorld.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKContentWorld.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKContentWorld.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKFrameInfo.swift":
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKFrameInfo.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKFrameInfo.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKFrameInfo.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKFrameInfo.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WKFrameInfo.dia"

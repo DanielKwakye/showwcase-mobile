@@ -1,0 +1,36 @@
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/CallAsyncJavaScriptBelowIOS14WrapperJS.swift":
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CallAsyncJavaScriptBelowIOS14WrapperJS.swiftdeps"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CallAsyncJavaScriptBelowIOS14WrapperJS.o"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CallAsyncJavaScriptBelowIOS14WrapperJS.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CallAsyncJavaScriptBelowIOS14WrapperJS.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CallAsyncJavaScriptBelowIOS14WrapperJS.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/ChromeSafariBrowserManager.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ChromeSafariBrowserManager.d"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ChromeSafariBrowserManager.swiftdeps"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ChromeSafariBrowserManager.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ChromeSafariBrowserManager.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ChromeSafariBrowserManager.swiftconstvalues"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/ConsoleLogJS.swift":
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ConsoleLogJS.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ConsoleLogJS.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ConsoleLogJS.d"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ConsoleLogJS.swiftdeps"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ConsoleLogJS.o"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/ClientCertChallenge.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ClientCertChallenge.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ClientCertChallenge.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ClientCertChallenge.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ClientCertChallenge.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ClientCertChallenge.o"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/ContextMenuOptions.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ContextMenuOptions.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ContextMenuOptions.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ContextMenuOptions.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ContextMenuOptions.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/ContextMenuOptions.swiftdeps"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/CredentialDatabase.swift":
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CredentialDatabase.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CredentialDatabase.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CredentialDatabase.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CredentialDatabase.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/CredentialDatabase.d"

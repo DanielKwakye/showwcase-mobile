@@ -1,0 +1,30 @@
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/InAppWebView.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebView.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebView.o"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebView.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebView.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebView.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserOptions.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserOptions.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserOptions.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserOptions.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserOptions.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserOptions.o"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/InAppWebViewOptions.swift":
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewOptions.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewOptions.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewOptions.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewOptions.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewOptions.swiftdeps"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebViewMethodHandler.swift":
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewMethodHandler.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewMethodHandler.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewMethodHandler.swiftdeps"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewMethodHandler.swiftconstvalues"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppWebViewMethodHandler.d"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserWebViewController.swift":
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserWebViewController.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserWebViewController.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserWebViewController.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserWebViewController.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/InAppBrowserWebViewController.d"

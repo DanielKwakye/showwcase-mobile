@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/PromisesObjC/Sources/FBLPromises/FBLPromise+Wrap.m \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h

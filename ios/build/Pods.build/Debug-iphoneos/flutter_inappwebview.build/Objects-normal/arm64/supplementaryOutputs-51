@@ -1,0 +1,30 @@
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WebMessageChannelJS.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannelJS.d"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannelJS.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannelJS.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannelJS.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannelJS.o"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessageListener.swift":
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListener.o"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListener.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListener.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListener.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListener.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessageChannel.swift":
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannel.o"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannel.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannel.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannel.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageChannel.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WebMessageListenerJS.swift":
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListenerJS.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListenerJS.o"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListenerJS.d"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListenerJS.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessageListenerJS.dia"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessagePort.swift":
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessagePort.swiftdeps"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessagePort.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessagePort.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessagePort.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/WebMessagePort.o"

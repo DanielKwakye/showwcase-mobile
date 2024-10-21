@@ -1,0 +1,30 @@
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/SafariBrowserOptions.swift":
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariBrowserOptions.dia"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariBrowserOptions.swiftdeps"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariBrowserOptions.o"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariBrowserOptions.swiftconstvalues"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariBrowserOptions.d"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PullToRefresh/PullToRefreshDelegate.swift":
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshDelegate.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshDelegate.swiftdeps"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshDelegate.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshDelegate.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshDelegate.o"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/SafariViewController.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariViewController.d"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariViewController.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariViewController.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariViewController.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SafariViewController.swiftdeps"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PullToRefresh/PullToRefreshOptions.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshOptions.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshOptions.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshOptions.dia"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshOptions.swiftconstvalues"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/PullToRefreshOptions.swiftdeps"
+"/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/SecCertificate.swift":
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SecCertificate.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SecCertificate.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SecCertificate.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SecCertificate.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/flutter_inappwebview.build/Objects-normal/arm64/SecCertificate.swiftdeps"

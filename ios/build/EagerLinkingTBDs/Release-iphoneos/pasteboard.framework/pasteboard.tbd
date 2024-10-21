@@ -1,0 +1,61 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s10pasteboard21SwiftPasteboardPluginCACycfc",
+            "_pasteboardVersionNumber",
+            "_$s10pasteboard21SwiftPasteboardPluginCACycfC",
+            "_$s10pasteboard21SwiftPasteboardPluginCN",
+            "_pasteboardVersionString",
+            "_Swift50Overrides",
+            "_$s10pasteboard21SwiftPasteboardPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s10pasteboard21SwiftPasteboardPluginCfD",
+            "_$s10pasteboard21SwiftPasteboardPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_Swift51Overrides",
+            "_$s10pasteboard21SwiftPasteboardPluginC8register4withySo07FlutterD9Registrar_p_tFZ",
+            "_$s10pasteboard21SwiftPasteboardPluginCMn",
+            "_$s10pasteboard21SwiftPasteboardPluginCMa"
+          ],
+          "objc_class": [
+            "PasteboardPlugin",
+            "_TtC10pasteboard21SwiftPasteboardPlugin",
+            "PodsDummy_pasteboard"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/pasteboard.framework/pasteboard"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

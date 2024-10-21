@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/flutter_share_me-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_share_me-1.4.0/ios/Classes/SwiftFlutterShareMePlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/SwiftFlutterShareMePlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/SwiftFlutterShareMePlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_share_me.build/Objects-normal/arm64/SwiftFlutterShareMePlugin.o"
+  }
+}

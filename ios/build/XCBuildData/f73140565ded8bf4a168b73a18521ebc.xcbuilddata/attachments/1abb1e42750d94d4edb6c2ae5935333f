@@ -1,0 +1,10 @@
+framework module better_player {
+  umbrella header "better_player-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module better_player.__Swift {
+  exclude header "better_player-Swift.h"
+}

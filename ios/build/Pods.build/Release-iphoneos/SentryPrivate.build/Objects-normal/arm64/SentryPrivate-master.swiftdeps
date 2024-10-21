@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "b8902776ba2c481f63866ef0bb57ea802cd72a56b72b03aa18646fabfff4af9c"
+build_start_time: [1697256039, 949778000]
+build_end_time: [1697256061, 353966000]
+inputs:
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXCallStackTree.swift"
+  : [1697255942, 221360760]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXManager.swift"
+  : [1697255942, 221002943]
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Sentry.swift": [1697255942, 221722880]
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/SwiftDescriptor.swift": [1697255942, 220211831]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Tools/HTTPHeaderSanitizer.swift"
+  : [1697255942, 219404273]
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Tools/UrlSanitized.swift": [1697255942, 219787052]

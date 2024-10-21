@@ -1,0 +1,50 @@
+- worked on youtube video preview
+- revamped bookmarks page
+
+//// Today ////
+--- Done
+
+--- Issues
+  - job filters returns 400 (https://cache.showwcase.com/jobs/filters)
+
+-- signIn at: 3:00 am
+    - pause: 5: 19 am
+    - resumed 6: 19
+
+-- Outstanding ........
+
+ - Shows && Series (Wednesday)
+ - Jobs
+
+ - Redirecting users when push notification is received;
+ - Chat with image attachment;
+
+ // most visible item in listview
+ https://stackoverflow.com/questions/57011733/find-out-which-items-in-a-listview-are-visible
+ VisibilityDetector(
+     key: Key('my-widget-key'),
+     onVisibilityChanged: (visibilityInfo) {
+       var visiblePercentage = visibilityInfo.visibleFraction * 100;
+       debugPrint(
+           'Widget ${visibilityInfo.key} is ${visiblePercentage}% visible');
+     },
+     child: someOtherWidget,
+   )
+
+
+
+
+Padding (
+          padding: const EdgeInsets.only(
+              left: 20,
+              right: 20,
+              top: 20
+          ),
+          child: Text(
+            "Guestbook",
+            style: theme.textTheme.titleLarge?.copyWith(fontSize: 18),
+          ),
+        ),
+        const SizedBox(
+          height: 10,
+        ),

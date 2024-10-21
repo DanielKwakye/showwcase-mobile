@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/FirebaseRemoteConfig.build/module.modulemap \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/FIRRemoteConfigUpdate.m \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Public/FirebaseRemoteConfig/FIRRemoteConfig.h

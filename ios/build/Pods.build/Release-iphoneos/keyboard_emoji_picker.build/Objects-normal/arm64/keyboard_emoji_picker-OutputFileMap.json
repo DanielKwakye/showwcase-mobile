@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/keyboard_emoji_picker-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/keyboard_emoji_picker-1.0.3/ios/Classes/KeyboardEmojiPickerPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardEmojiPickerPlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardEmojiPickerPlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardEmojiPickerPlugin.o"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/keyboard_emoji_picker-1.0.3/ios/Classes/KeyboardNativeView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardNativeView.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardNativeView.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/Objects-normal/arm64/KeyboardNativeView.o"
+  }
+}

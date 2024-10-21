@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "af4352fb78757ebf34c4509a06a157a95622ca0bdf30e891886eca3b5b1ea314"
+build_start_time: [1697256465, 622344000]
+build_end_time: [1697256480, 396375000]
+inputs:
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Runner/AppDelegate.swift": [1671141058, 0]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1697256465, 594894368]

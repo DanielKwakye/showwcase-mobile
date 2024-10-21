@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryPrivate-master.swiftdeps"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXCallStackTree.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXCallStackTree.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXCallStackTree.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXCallStackTree.o"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXManager.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXManager.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SentryMXManager.o"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Sentry.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/Sentry.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/Sentry.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/Sentry.o"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/SwiftDescriptor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SwiftDescriptor.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SwiftDescriptor.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/SwiftDescriptor.o"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Tools/HTTPHeaderSanitizer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/HTTPHeaderSanitizer.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/HTTPHeaderSanitizer.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/HTTPHeaderSanitizer.o"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/SentryPrivate/Sources/Swift/Tools/UrlSanitized.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/UrlSanitized.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/UrlSanitized.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/SentryPrivate.build/Objects-normal/arm64/UrlSanitized.o"
+  }
+}

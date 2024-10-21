@@ -1,0 +1,3 @@
+enum SpacesStatus {
+  initial, fetchOngoingSpacesInProgress, fetchOngoingSpacesFailed, fetchOngoingSpacesRefreshing, fetchOngoingSpacesRefreshed, createNewSpaceInProgress, createNewSpaceFailed, createNewSpaceSuccessful
+}

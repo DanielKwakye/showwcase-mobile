@@ -1,0 +1,48 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_wakelockVersionString",
+            "_wakelockVersionNumber"
+          ],
+          "objc_class": [
+            "FLTWakelockApiCodecReaderWriter",
+            "FLTWakelockApiCodecReader",
+            "WakelockPlugin",
+            "FLTToggleMessage",
+            "FLTIsEnabledMessage",
+            "PodsDummy_wakelock",
+            "FLTWakelockApiCodecWriter"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FLTWakelockApiGetCodec",
+            "_FLTWakelockApiSetup"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/wakelock.framework/wakelock"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

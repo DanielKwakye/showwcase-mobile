@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/notification_permissions/notification_permissions.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/notification_permissions/notification_permissions.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "notification_permissions-Swift.h",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/unextended-interface-header.h",
+    }]
+    }]
+}

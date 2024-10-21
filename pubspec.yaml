@@ -1,0 +1,251 @@
+name: showwcase_v3
+description: Built for developers
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+
+# ---> run: flutter packages pub run build_runner build --delete-conflicting-outputs
+
+# ---> run: dart run flutter_native_splash:create --flavors beta,production --- to create splash screen
+# ---> run: flutter pub run flutter_launcher_icons -f flutter_launcher_icons-production.yaml  --- to create run launcher icons
+# ---> run:  flutter packages pub run sentry_dart_plugin  --- to upload sentry debug symbols
+
+# ---> run: flutter build apk --flavor=beta --split-per-abi  --- APK - POINTING TO BETA
+# ---> run: flutter build apk --flavor=Production --split-per-abi  --- APK - POINTING TO PRODUCTION
+# ---> run: flutter build appbundle --obfuscate --flavor=Production --split-debug-info=build/  --- APP BUNDLE FOR PLAY STORE
+# ---> run: flutter build ipa --flavor=Production  --- APP BUNDLE FOR IOS APP STORE
+
+version: 2.1.1+166
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  dio: ^5.1.2
+  flutter_secure_storage: ^8.0.0
+  dartz: ^0.10.1
+  json_annotation: ^4.8.1
+  flutter_animator: ^3.2.2
+  intl: ^0.18.1
+  easy_debounce: ^2.0.3
+  copy_with_extension: ^5.0.2
+  equatable: ^2.0.5
+  adaptive_theme: ^3.2.1
+  google_fonts: 4.0.4
+  flutter_bloc: ^8.1.3
+  timeago: ^3.3.0
+  mime: ^1.0.4
+#  photo_manager: ^2.8.1
+  wechat_assets_picker: ^8.9.0-dev.1
+  permission_handler: ^10.2.0
+  #  flutter_widget_from_html_core: ^0.10.1
+  flutter_markdown: ^0.6.14
+  html_unescape: ^2.0.0
+  another_flushbar: ^1.12.30
+  cached_network_image: ^3.3.1
+  flutter_highlight: ^0.7.0
+  highlight: ^0.7.0
+  flutter_staggered_animations: ^1.1.1
+  shimmer: ^3.0.0
+  code_text_field: ^1.1.0
+  flutter_svg: ^2.0.6
+  lottie: ^2.3.2
+  url_launcher: ^6.1.11
+  webview_flutter: ^4.2.2
+  flutter_inappwebview: ^5.7.2+3
+  go_router: ^7.1.1
+  custom_refresh_indicator: ^2.0.1
+  flutter_share_me: ^1.4.0
+  image_picker: ^0.8.7+5
+  image_cropper: ^4.0.1
+  emoji_picker_flutter: ^1.6.0
+  new_version_plus: ^0.0.9
+  flutter_quill: ^9.2.2
+  open_store: ^0.5.0
+  expandable: ^5.0.1
+#  flutter_quill: ^6.4.4
+
+  #  flutter_quill:
+#    git:
+#      url: https://github.com/DanielKwakye/flutter-quill.git
+#      ref: main
+  #  delta_markdown: ^0.8.0
+  quill_markdown: ^0.1.0
+  markdown: ^7.1.0
+  collection: ^1.17.1
+  separated_column: ^2.0.0
+  separated_row: ^2.0.0
+  nanoid: ^1.0.0
+  cupertino_back_gesture: ^0.1.0
+  infinite_scroll_pagination: ^3.2.0
+  colorful_safe_area: ^1.0.0
+  pull_to_refresh: 2.0.0
+  flutter_layout_grid: ^2.0.5
+  extended_nested_scroll_view: ^6.1.2
+  like_button: ^2.0.4
+  photo_view: ^0.14.0
+  any_link_preview: ^3.0.0
+  horizontal_blocked_scroll_physics: ^4.0.1
+  notification_permissions: ^0.6.1 #https://pub.dev/packages/notification_permissions
+  flutter_rating_bar: ^4.0.1
+#  better_player: ^0.0.83
+
+  #fixes android issue MediaSource.Factory#setDrmSessionManagerProvider here -> https://github.com/jhomlala/betterplayer/pull/1085
+  #fixes version issues of better_player dependencies
+  better_player:
+    git:
+      url: https://github.com/DanielKwakye/betterplayer.git
+      ref: main
+
+  feather_icons: ^1.2.0
+  github_colour: ^2.0.0+1
+  youtube_player_flutter: ^8.1.2
+  get_it: ^7.6.0
+  percent_indicator: ^4.2.2
+  #  flutter_html:
+  flutter_staggered_grid_view: ^0.6.1
+  flutter_widget_from_html_core: 0.14.11
+  #  social_embed_webview:
+  hive_flutter: ^1.1.0
+  selectable_autolink_text: ^2.6.0
+  socket_io_client: ^2.0.2
+  popover: ^0.2.8+2
+  #  flutter_html: ^3.0.0-beta.2
+  html: ^0.15.4
+  onesignal_flutter: 5.0.0
+  sentry_flutter: ^7.14.0
+  rich_text_controller: ^1.4.0
+  tenor: ^1.0.9
+  #  flutter_app_badger: ^1.5.0
+  scroll_to_index: ^3.0.1
+  keyboard_emoji_picker: ^1.0.3
+  multi_select_flutter: ^4.1.3
+  emoji_selector: ^0.0.6
+  syncfusion_flutter_datepicker: ^24.1.44
+  tus_client: ^1.0.2
+  qr_flutter: ^4.1.0
+  buttons_tabbar: ^1.3.7+1
+  textfield_tags: ^2.0.2
+  flutter_app_badger: ^1.5.0
+  flutter_webrtc: ^0.9.41
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.15.1
+  firebase_analytics: ^10.4.5
+  firebase_remote_config: ^4.2.5
+  cloud_firestore: ^4.9.1
+  visibility_detector: ^0.4.0+2
+  syncfusion_flutter_pdfviewer: ^24.1.44
+
+
+dependency_overrides:
+  http: ^0.13.0
+  flutter_widget_from_html_core: ^0.10.3
+  visibility_detector: ^0.4.0+2
+  win32: ^2.0.0
+#  wakelock: ^0.6.2
+#  wakelock_windows: ^0.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.0
+  copy_with_extension_gen: ^5.0.2
+  json_serializable: ^6.7.0
+  build_runner: ^2.4.5
+  hive_generator: ^2.0.0
+  change_app_package_name: 1.1.0
+  sentry_dart_plugin: ^1.0.0
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+sentry:
+  upload_debug_symbols: true
+  upload_source_maps: false
+  upload_sources: false
+  project: "showwcase-mobile"
+  org: "showwcase-0v"
+  #  auth_token: "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"
+  auth_token: "e43704677b0f498faf52d934e05f4b7cfd6ba739cf8c437fa1e57305c169b1dc"
+  wait_for_processing: false
+  log_level: error
+  commits: auto
+  ignore_missing: true
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/img/
+    - assets/json/
+    - assets/svg/
+    - assets/svg/profile_tags/
+    - assets/svg/socials/
+    - assets/svg/show_icons/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

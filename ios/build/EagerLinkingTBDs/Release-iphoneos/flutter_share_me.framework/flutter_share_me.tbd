@@ -1,0 +1,70 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6handle_6resultySo0E10MethodCallC_yypSgctF",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC013_methodSystemF0SSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC15_methodWhatsAppSSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6resultyypSgcSgvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6sharer_22didCompleteWithResultsy13FBSDKShareKit7Sharing_p_SDySSypGtF",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCfD",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6sharer_16didFailWithErrory13FBSDKShareKit7Sharing_p_s0M0_ptF",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCMn",
+            "_Swift50Overrides",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC23_methodWhatsAppBusinessSSvpfi",
+            "_flutter_share_meVersionNumber",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC14_methodTwitterSSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC29documentInteractionControllerSo010UIDocumentjK0CSgvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6sharer_22didCompleteWithResultsy13FBSDKShareKit7Sharing_p_SDySSypGtFTq",
+            "_Swift51Overrides",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC23_methodWhatsAppPersonalSSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCMa",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCN",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC15_methodFaceBookSSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6sharer_16didFailWithErrory13FBSDKShareKit7Sharing_p_s0M0_ptFTq",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC15sharerDidCancelyy13FBSDKShareKit7Sharing_pF",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCACycfC",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC6handle_6resultySo0E10MethodCallC_yypSgctFTq",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC16_methodInstagramSSvpfi",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginCACycfc",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC15sharerDidCancelyy13FBSDKShareKit7Sharing_pFTq",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC8register4withySo0eH9Registrar_p_tFZ",
+            "_flutter_share_meVersionString",
+            "_$s16flutter_share_me25SwiftFlutterShareMePluginC015_methodTelegramF0SSvpfi"
+          ],
+          "objc_class": [
+            "PodsDummy_flutter_share_me",
+            "_TtC16flutter_share_me25SwiftFlutterShareMePlugin",
+            "FlutterShareMePlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/flutter_share_me.framework/flutter_share_me"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

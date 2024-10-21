@@ -1,0 +1,39 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_PINOperationVersionNumber",
+            "_PINOperationVersionString"
+          ],
+          "objc_class": [
+            "PINOperationQueue",
+            "PINOperation",
+            "PodsDummy_PINOperation",
+            "PINOperationGroup"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/PINOperation.framework/PINOperation"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "84a3aa3a67fb126d4393313d299f9264fc99af928ba2d912fc8318ad443350aa"
+build_start_time: [1697256039, 686746000]
+build_end_time: [1697256329, 269364000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/emoji_picker_flutter-1.6.1/ios/Classes/SwiftEmojiPickerFlutterPlugin.swift": [1690358671, 472969101]

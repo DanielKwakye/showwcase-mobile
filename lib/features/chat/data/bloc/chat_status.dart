@@ -1,0 +1,26 @@
+enum ChatStatus {
+  /// Chat state enums
+  initial,
+  fetchSuggestedFollowersInProgress, fetchSuggestedFollowersFailed, fetchSuggestedFollowersSuccessful,
+  requestConnectionWithRecipientInProgress, requestConnectionWithRecipientFailed, requestConnectionWithRecipientSuccessful,
+  fetchConnectedRecipientsInProgress, fetchConnectedRecipientsFailed, fetchConnectedRecipientsSuccessful,
+  updateConnectedRecipientsInProgress, updateConnectedRecipientsSuccessful,
+  sendMessageToRecipientInProgress, sendMessageToRecipientFailed, sendMessageToRecipientSuccessful,
+  fetchChatMessagesInProgress, fetchChatMessagesFailed, fetchChatMessagesSuccessful,
+  refreshChatMessagesInProgress, refreshChatMessagesSuccessful,
+  markChatMessagesAsReadInProgress, markChatMessagesAsReadFailed, markChatMessagesAsReadSuccessful,
+  updateSelectedConnectionInProgress, updateSelectedConnectionSuccessful,
+
+  fetchPendingConnectionsInProgress, fetchPendingConnectionsFailed, fetchPendingConnectionsSuccess,
+  fetchRejectedConnectionsInProgress, fetchRejectedConnectionsFailed, fetchRejectedConnectionsSuccess,
+  acceptPendingConnectionInProgress, acceptPendingConnectionFailed, acceptPendingConnectionSuccessful,
+  rejectPendingConnectionInProgress, rejectPendingConnectionFailed, rejectPendingConnectionSuccessful,
+
+  fetchChatNotificationTotalsInProgress, fetchChatNotificationTotalsFailed, fetchChatNotificationTotalsSuccessful,
+  updateChatNotificationTotalsInProgress, updateChatNotificationTotalsFailed, updateChatNotificationTotalsSuccessful,
+  updatingChatNotificationTotalsInProgress, updatingChatNotificationTotalsSuccessful, updatingTotalUnreadMessagesOnASelectedChatSuccessful,
+  updatingTotalUnreadMessagesOnASelectedChatInProgress,
+  searchPeopleLoading, searchPeopleLoaded, searchPeopleError, setChatConnectedRecipientsInProgress, setChatConnectedRecipientsCompleted, resetChatStateInProgress,
+
+  /// End of Chat state enums
+}

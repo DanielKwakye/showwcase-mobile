@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "e6bb76696811a6a4a9bbb31c4e74e3683b64ce9cfbbd8b100b95c83b96f1480e"
+build_start_time: [1697256039, 418111000]
+build_end_time: [1697256330, 623889000]
+inputs:
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/notification_permissions-0.6.1/ios/Classes/SwiftNotificationPermissionsPlugin.swift"
+  : [1684811862, 452901211]

@@ -1,0 +1,117 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s13better_player17CachingPlayerItemC4data8mimeType13fileExtensionAC10Foundation4DataV_S2StcfC",
+            "__artworkImageDict",
+            "__cacheManager",
+            "__timeObserverIdDict",
+            "_$s13better_player12CacheManagerC05clearC0yyF",
+            "__notificationPlayer",
+            "_$s13better_player12CacheManagerC5setupyyF",
+            "_$s13better_player12CacheManagerCMa",
+            "_$s13better_player12CacheManagerC37getCachingPlayerItemForNormalPlayback_8cacheKey14videoExtension7headersSo08AVPlayerH0CSg10Foundation3URLV_SSSgANSDySo8NSObjectCyXlGtFTq",
+            "_$s13better_player17CachingPlayerItemCfD",
+            "_$s13better_player12CacheManagerC06setMaxC4SizeyySo8NSNumberCSgFTq",
+            "_$s13better_player12CacheManagerC10diskConfig0C004DiskF0Vvpfi",
+            "_$s13better_player12CacheManagerC07stopPreC0_8cacheKey17completionHandlery10Foundation3URLV_SSSgySbcSgtFTq",
+            "_$s13better_player17CachingPlayerItemC22resourceLoaderDelegate33_70F75BEE06DEE9B8D952B2971BDA51CCLLAC08ResourcegH0Cvpfi",
+            "_$s13better_player12CacheManagerC12memoryConfig0C006MemoryF0Vvpfi",
+            "_$s13better_player17CachingPlayerItemC8cacheKeySSSgvM",
+            "_$s13better_player17CachingPlayerItemC8delegateAA0cdE8Delegate_pSgvpfi",
+            "_$s13better_player12CacheManagerC37getCachingPlayerItemForNormalPlayback_8cacheKey14videoExtension7headersSo08AVPlayerH0CSg10Foundation3URLV_SSSgANSDySo8NSObjectCyXlGtF",
+            "_$s13better_player12CacheManagerC05clearC0yyFTq",
+            "_$s13better_player17CachingPlayerItemC19customFileExtension33_70F75BEE06DEE9B8D952B2971BDA51CCLLSSSgvs",
+            "_Swift51Overrides",
+            "__remoteCommandsInitialized",
+            "_$s13better_player17CachingPlayerItemC22playbackStalledHandleryyF",
+            "_$s13better_player12CacheManagerC20getCachingPlayerItem_8cacheKey14videoExtension7headersAA0fgH0CSg10Foundation3URLV_SSSgANSDySo8NSObjectCyXlGtF",
+            "_$s13better_player12CacheManagerCN",
+            "_$s13better_player17CachingPlayerItemC8cacheKeySSSgvg",
+            "_$s13better_player17CachingPlayerItemCMa",
+            "_better_playerVersionString",
+            "_$s13better_player12CacheManagerC16_existsInStorageSbvpfi",
+            "_$s13better_player17CachingPlayerItemC8downloadyyFTq",
+            "_$s13better_player12CacheManagerCACycfC",
+            "_$s13better_player17CachingPlayerItemC8cacheKeySSSgvpfi",
+            "_$s13better_player12CacheManagerCfD",
+            "_$s13better_player12CacheManagerC17completionHandlerySbcSgvpfi",
+            "_$s13better_player17CachingPlayerItemCMn",
+            "__dataSourceDict",
+            "_$s13better_player12CacheManagerC03preC3URL_8cacheKey14videoExtension11withHeaders17completionHandlery10Foundation0F0V_SSSgALSDySo8NSObjectCyXlGySbcSgtFTq",
+            "_$s13better_player12CacheManagerC20getCachingPlayerItem_8cacheKey14videoExtension7headersAA0fgH0CSg10Foundation3URLV_SSSgANSDySo8NSObjectCyXlGtFTq",
+            "_$s13better_player17CachingPlayerItemC12stopDownloadyyF",
+            "__pipController",
+            "_better_playerVersionNumber",
+            "_$s13better_player12CacheManagerC05isPreC9Supported3url14videoExtensionSb10Foundation3URLV_SSSgtF",
+            "_$s13better_player12CacheManagerC05isPreC9Supported3url14videoExtensionSb10Foundation3URLV_SSSgtFTq",
+            "_Swift50Overrides",
+            "_$s13better_player12CacheManagerC14_preCachedURLsSDySSAA17CachingPlayerItemCGvpfi",
+            "_$s13better_player12CacheManagerCMn",
+            "_$s13better_player12CacheManagerC06setMaxC4SizeyySo8NSNumberCSgF",
+            "_$s13better_player17CachingPlayerItemC8cacheKeySSSgvs",
+            "_$s13better_player12CacheManagerC07stopPreC0_8cacheKey17completionHandlery10Foundation3URLV_SSSgySbcSgtF",
+            "_DEFAULT_LICENSE_SERVER_URL",
+            "_$s13better_player17CachingPlayerItemCN",
+            "_$s13better_player17CachingPlayerItemC3url19customFileExtension8cacheKey7headersAC10Foundation3URLV_SSSgAKSDySo8NSObjectCyXlGtcfC",
+            "_$s13better_player17CachingPlayerItemC12stopDownloadyyFTq",
+            "_$s13better_player12CacheManagerC03preC3URL_8cacheKey14videoExtension11withHeaders17completionHandlery10Foundation0F0V_SSSgALSDySo8NSObjectCyXlGySbcSgtF",
+            "__restoreUserInterfaceForPIPStopCompletionHandler",
+            "_$s13better_player17CachingPlayerItemC8downloadyyF",
+            "_$s13better_player12CacheManagerC6server28HLSCachingReverseProxyServerAECSgvpfi",
+            "_$s13better_player12CacheManagerCACycfc",
+            "_$s13better_player17CachingPlayerItemC8delegateAA0cdE8Delegate_pSgvs",
+            "_$s13better_player17CachingPlayerItemC07cachingdE6Scheme33_70F75BEE06DEE9B8D952B2971BDA51CCLLSSvpfi",
+            "_$s13better_player17CachingPlayerItemC19customFileExtension33_70F75BEE06DEE9B8D952B2971BDA51CCLLSSSgvg",
+            "_$s13better_player17CachingPlayerItemC12observeValue10forKeyPath2of6change7contextySSSg_ypSgSDySo05NSKeyg6ChangeI0aypGSgSvSgtF",
+            "_$s13better_player17CachingPlayerItemC19customFileExtension33_70F75BEE06DEE9B8D952B2971BDA51CCLLSSSgvpfi",
+            "__assetId",
+            "_texturesCount",
+            "_$s13better_player17CachingPlayerItemC8delegateAA0cdE8Delegate_pSgvM",
+            "_$s13better_player12CacheManagerC018$__lazy_storage_$_F033_B2F10FEAA6EA8B847E07CF3A0F718F83LL0C07StorageCySS10Foundation4DataVGSgSgvpfi",
+            "_$s13better_player12CacheManagerC5setupyyFTq",
+            "_$s13better_player17CachingPlayerItemC19customFileExtension33_70F75BEE06DEE9B8D952B2971BDA51CCLLSSSgvM",
+            "_$s13better_player17CachingPlayerItemC5asset28automaticallyLoadedAssetKeysACSo7AVAssetC_SaySSGSgtcfC",
+            "_$s13better_player17CachingPlayerItemC8delegateAA0cdE8Delegate_pSgvg"
+          ],
+          "objc_class": [
+            "BetterPlayerView",
+            "_TtC13better_player17CachingPlayerItem",
+            "BetterPlayerPlugin",
+            "_TtC13better_player12CacheManager",
+            "BetterPlayerTimeUtils",
+            "PodsDummy_better_player",
+            "BetterPlayerEzDrmAssetsLoaderDelegate",
+            "BetterPlayer"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/better_player.framework/better_player"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

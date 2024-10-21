@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/notification_permissions-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/notification_permissions-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/notification_permissions-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/notification_permissions-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/notification_permissions-0.6.1/ios/Classes/SwiftNotificationPermissionsPlugin.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/notification_permissions.build/Objects-normal/arm64/SwiftNotificationPermissionsPlugin~partial.swiftmodule"
+  }
+}

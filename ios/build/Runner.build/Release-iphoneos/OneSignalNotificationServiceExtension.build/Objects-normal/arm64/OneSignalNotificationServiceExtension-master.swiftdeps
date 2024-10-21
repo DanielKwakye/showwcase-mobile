@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "22792e13c04ce23548c7b7114a3922e121e2f018b76598e7fa1b4caf5b17022f"
+build_start_time: [1697256061, 581606000]
+build_end_time: [1697256077, 431021000]
+inputs:
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/OneSignalNotificationServiceExtension/NotificationService.swift": [1697186125, 450614381]

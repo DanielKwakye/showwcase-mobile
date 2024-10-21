@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/emoji_picker_flutter-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/emoji_picker_flutter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/emoji_picker_flutter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/emoji_picker_flutter-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/emoji_picker_flutter-1.6.1/ios/Classes/SwiftEmojiPickerFlutterPlugin.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/emoji_picker_flutter.build/Objects-normal/arm64/SwiftEmojiPickerFlutterPlugin~partial.swiftmodule"
+  }
+}

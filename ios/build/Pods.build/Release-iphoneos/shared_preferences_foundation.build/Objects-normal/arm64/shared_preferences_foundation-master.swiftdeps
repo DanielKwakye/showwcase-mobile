@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "52b733afa83128ab6974f521be54399adde6c440e53b0bdfbca9f375691ad67a"
+build_start_time: [1697256039, 85542000]
+build_end_time: [1697256330, 447569000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.3/darwin/Classes/SharedPreferencesPlugin.swift": [1692869511, 428716471]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.3/darwin/Classes/messages.g.swift": [1692869511, 432504934]

@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/better_player-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/better_player-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/better_player-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/better_player-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/git/betterplayer-f0a340d64715c4c9fdf68fdc0338fd7d5ecf51f8/ios/Classes/CacheManager.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CacheManager~partial.swiftmodule"
+  },
+  "/Users/danielkwakye/.pub-cache/git/betterplayer-f0a340d64715c4c9fdf68fdc0338fd7d5ecf51f8/ios/Classes/CachingPlayerItem.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/Objects-normal/arm64/CachingPlayerItem~partial.swiftmodule"
+  }
+}

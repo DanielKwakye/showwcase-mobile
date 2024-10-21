@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "0e680c89bcb1ee09431f33290e1b2d37227de28d7ddc1b5059931a382979a09e"
+build_start_time: [1697256039, 949024000]
+build_end_time: [1697256061, 505859000]
+inputs:
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/OrderedSet/Sources/OrderedSet.swift": [1697255941, 888403976]

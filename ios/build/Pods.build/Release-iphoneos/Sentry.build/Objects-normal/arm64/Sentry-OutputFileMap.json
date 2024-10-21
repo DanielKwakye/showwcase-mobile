@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry-master.swiftdeps"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/Sentry/Sources/Swift/Sentry.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/Sentry.build/Objects-normal/arm64/Sentry.o"
+  }
+}

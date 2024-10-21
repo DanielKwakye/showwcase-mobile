@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/syncfusion_flutter_pdfviewer-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/syncfusion_flutter_pdfviewer-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/syncfusion_flutter_pdfviewer-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/syncfusion_flutter_pdfviewer-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-24.1.44/ios/Classes/SwiftSyncfusionFlutterPdfViewerPlugin.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/syncfusion_flutter_pdfviewer.build/Objects-normal/arm64/SwiftSyncfusionFlutterPdfViewerPlugin~partial.swiftmodule"
+  }
+}

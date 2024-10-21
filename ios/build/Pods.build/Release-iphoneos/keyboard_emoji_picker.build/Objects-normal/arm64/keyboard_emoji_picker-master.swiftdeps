@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "d27d60ee3528b04196870f20e4e5f83e51add72bc367fecf6c7743603ec0741b"
+build_start_time: [1697256039, 437125000]
+build_end_time: [1697256331, 8133000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/keyboard_emoji_picker-1.0.3/ios/Classes/KeyboardEmojiPickerPlugin.swift": [1691483471, 490391245]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/keyboard_emoji_picker-1.0.3/ios/Classes/KeyboardNativeView.swift": [1691483471, 489932030]

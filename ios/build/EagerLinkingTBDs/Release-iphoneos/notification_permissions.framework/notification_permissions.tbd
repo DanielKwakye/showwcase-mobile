@@ -1,0 +1,65 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCACycfC",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCMa",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCfD",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCMn",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC17permissionGrantedSSvpfi",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_Swift50Overrides",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCACycfc",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC16permissionDeniedSSvpfi",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginCN",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC21permissionProvisionalSSvpfi",
+            "_Swift51Overrides",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC17permissionUnknownSSvpfi",
+            "_notification_permissionsVersionString",
+            "_notification_permissionsVersionNumber",
+            "_$s24notification_permissions34SwiftNotificationPermissionsPluginC8register4withySo07FlutterF9Registrar_p_tFZ"
+          ],
+          "objc_class": [
+            "NotificationPermissionsPlugin",
+            "PodsDummy_notification_permissions",
+            "_TtC24notification_permissions34SwiftNotificationPermissionsPlugin"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/notification_permissions.framework/notification_permissions"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

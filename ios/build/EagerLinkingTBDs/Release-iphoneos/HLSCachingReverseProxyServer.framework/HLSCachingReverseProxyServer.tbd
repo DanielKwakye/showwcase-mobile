@@ -1,0 +1,80 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s28HLSCachingReverseProxyServerAAC07reverseC3URL4from10Foundation0F0VSgAG_tFTq",
+            "_$s28HLSCachingReverseProxyServerAAC4stopyyFTq",
+            "_$s28HLSCachingReverseProxyServerAAC9originURL33_9432BA82CB32B879EDB6742BD13D59A8LL4from10Foundation0F0VSgSo06GCDWebD7RequestC_tF",
+            "_$s28HLSCachingReverseProxyServerAAC07reverseC8Playlist33_9432BA82CB32B879EDB6742BD13D59A8LL4with12forOriginURL10Foundation4DataVAI_AG0Q0VtF",
+            "_$s28HLSCachingReverseProxyServerAAC19processPlaylistLine33_9432BA82CB32B879EDB6742BD13D59A8LL_12forOriginURLS2S_10Foundation0Q0VtF",
+            "_$s28HLSCachingReverseProxyServerAAC4portSiSgvM",
+            "_$s28HLSCachingReverseProxyServerAAC4portSiSgvpfi",
+            "_$s28HLSCachingReverseProxyServerAAC8cacheKey33_9432BA82CB32B879EDB6742BD13D59A8LL3forSS10Foundation3URLV_tF",
+            "_$s28HLSCachingReverseProxyServerAAC4portSiSgvs",
+            "_$s28HLSCachingReverseProxyServerAACMn",
+            "_Swift50Overrides",
+            "_$s28HLSCachingReverseProxyServerAAC4stopyyF",
+            "_$s28HLSCachingReverseProxyServerAAC03webD010urlSession5cacheABSo06GCDWebD0C_So12NSURLSessionCSo10PINCaching_ptcfC",
+            "_$s28HLSCachingReverseProxyServerAAC4portSiSgvg",
+            "_$s28HLSCachingReverseProxyServerAACfD",
+            "_$s28HLSCachingReverseProxyServerAAC5start4portySu_tF",
+            "_HLSCachingReverseProxyServerVersionString",
+            "_$s28HLSCachingReverseProxyServerAAC18lineByReplacingURI33_9432BA82CB32B879EDB6742BD13D59A8LL0E012forOriginURLS2S_10Foundation0R0VtF",
+            "_Swift51Overrides",
+            "_$s28HLSCachingReverseProxyServerAAC13saveCacheData33_9432BA82CB32B879EDB6742BD13D59A8LL_3fory10Foundation0G0V_AF3URLVtF",
+            "_HLSCachingReverseProxyServerVersionNumber",
+            "_$s28HLSCachingReverseProxyServerAAC18addRequestHandlers33_9432BA82CB32B879EDB6742BD13D59A8LLyyF",
+            "_$s28HLSCachingReverseProxyServerAAC17addSegmentHandler33_9432BA82CB32B879EDB6742BD13D59A8LLyyF",
+            "_$s28HLSCachingReverseProxyServerAAC18addPlaylistHandler33_9432BA82CB32B879EDB6742BD13D59A8LLyyF",
+            "_$s28HLSCachingReverseProxyServerAAC10cachedData33_9432BA82CB32B879EDB6742BD13D59A8LL3for10Foundation0F0VSgAF3URLV_tF",
+            "_$s28HLSCachingReverseProxyServerAAC5start4portySu_tFTq",
+            "_$s28HLSCachingReverseProxyServerAACN",
+            "_$s28HLSCachingReverseProxyServerAACMa",
+            "_$s28HLSCachingReverseProxyServerAAC03webD010urlSession5cacheABSo06GCDWebD0C_So12NSURLSessionCSo10PINCaching_ptcfc",
+            "_$s28HLSCachingReverseProxyServerAAC07reverseC3URL4from10Foundation0F0VSgAG_tF",
+            "_$s28HLSCachingReverseProxyServerAACfd",
+            "_$s28HLSCachingReverseProxyServerAAC11absoluteURL33_9432BA82CB32B879EDB6742BD13D59A8LL4from09forOriginF010Foundation0F0VSgSS_AItF",
+            "_$s28HLSCachingReverseProxyServerAAC03webD010urlSession5cacheABSo06GCDWebD0C_So12NSURLSessionCSo10PINCaching_ptcfCTq",
+            "_$s28HLSCachingReverseProxyServerAACMm"
+          ],
+          "objc_class": [
+            "PodsDummy_HLSCachingReverseProxyServer"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/HLSCachingReverseProxyServer.framework/HLSCachingReverseProxyServer"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

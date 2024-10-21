@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "95e4cf4d2aafc006a7d9cb08a2ad0ee9b880b0c4d5a222a52e13c4af4843e057"
+build_start_time: [1697256061, 137416000]
+build_end_time: [1697256090, 771738000]
+inputs:
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1697255940, 669579935]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1697255940, 671005031]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1697255940, 671993841]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1697255940, 672580011]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1697255940, 673126305]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1697255940, 674162552]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1697255940, 670039070]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1697255940, 669280174]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1697255940, 674612797]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1697255940, 673591827]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1697255940, 670519016]
+  ? "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1697255940, 671526671]

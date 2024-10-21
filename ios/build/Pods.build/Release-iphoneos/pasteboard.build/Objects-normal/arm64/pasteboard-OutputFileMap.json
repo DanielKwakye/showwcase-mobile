@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/pasteboard-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/pasteboard-0.2.0/ios/Classes/SwiftPasteboardPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/SwiftPasteboardPlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/SwiftPasteboardPlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/pasteboard.build/Objects-normal/arm64/SwiftPasteboardPlugin.o"
+  }
+}

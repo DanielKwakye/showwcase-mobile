@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/sentry_flutter-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/sentry_flutter-7.9.0/ios/Classes/SentryFlutterPluginApple.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/SentryFlutterPluginApple.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/SentryFlutterPluginApple.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/sentry_flutter.build/Objects-normal/arm64/SentryFlutterPluginApple.o"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/OneSignalNotificationServiceExtension-master.swiftdeps"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/OneSignalNotificationServiceExtension/NotificationService.swift" : {
+    "index-unit-output-path" : "/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/NotificationService.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/NotificationService.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Runner.build/Release-iphoneos/OneSignalNotificationServiceExtension.build/Objects-normal/arm64/NotificationService.o"
+  }
+}

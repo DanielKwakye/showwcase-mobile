@@ -1,0 +1,103 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "3873a19c6222d09446b05ff9c910fc0dd00e8c1c2e98a4ecd3b56d4066b339a6"
+build_start_time: [1697256049, 682617000]
+build_end_time: [1697256328, 631822000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/ContextMenuOptions.swift": [1684811887, 827738272]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/CredentialDatabase.swift": [1684811888, 298980412]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/CustomeSchemeHandler.swift": [1684811888, 819774315]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/FlutterMethodCallDelegate.swift": [1684811887, 851850324]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/HeadlessInAppWebView/HeadlessInAppWebView.swift"
+  : [1684811887, 935159541]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/HeadlessInAppWebView/HeadlessInAppWebViewManager.swift"
+  : [1684811887, 949371697]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/HttpAuthenticationChallenge.swift": [1684811888, 326018284]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserDelegate.swift": [1684811888, 399375865]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserManager.swift": [1684811888, 368611098]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserNavigationController.swift"
+  : [1684811888, 392951235]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserOptions.swift": [1684811888, 353622831]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppBrowser/InAppBrowserWebViewController.swift"
+  : [1684811888, 380779365]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/FlutterWebViewController.swift"
+  : [1684811887, 650390238]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/FlutterWebViewFactory.swift": [1684811887, 638292625]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/InAppWebView.swift": [1684811887, 613942272]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebView/InAppWebViewOptions.swift": [1684811887, 671416687]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebViewMethodHandler.swift": [1684811888, 313735591]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/InAppWebViewStatic.swift": [1684811888, 736225061]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/LeakAvoider.swift": [1684811888, 775866129]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/MyCookieManager.swift": [1684811887, 745710877]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/MyWebStorageManager.swift": [1684811887, 914368459]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Options.swift": [1684811888, 755103138]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PlatformUtil.swift": [1684811888, 810938667]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/CallAsyncJavaScriptBelowIOS14WrapperJS.swift"
+  : [1684811887, 965419917]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/ConsoleLogJS.swift": [1684811888, 89036146]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/EnableViewportScaleJS.swift"
+  : [1684811888, 225572584]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/FindElementsAtPointJS.swift"
+  : [1684811888, 30132827]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/FindTextHighlightJS.swift": [1684811888, 75702164]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/InterceptAjaxRequestJS.swift"
+  : [1684811888, 281209772]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/InterceptFetchRequestJS.swift"
+  : [1684811888, 158730386]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/JavaScriptBridgeJS.swift": [1684811888, 118148294]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/LastTouchedAnchorOrImageJS.swift"
+  : [1684811888, 259154716]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/OnLoadResourceJS.swift": [1684811888, 59370834]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/OnWindowBlurEventJS.swift": [1684811888, 270190789]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/OnWindowFocusEventJS.swift"
+  : [1684811888, 44765812]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/OriginalViewPortMetaTagContentJS.swift"
+  : [1684811888, 198896678]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/PluginScriptsUtil.swift": [1684811888, 15690288]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/PrintJS.swift": [1684811888, 245074938]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/PromisePolyfillJS.swift": [1684811888, 185524787]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/SupportZoomJS.swift": [1684811888, 211119791]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WebMessageChannelJS.swift": [1684811888, 103480842]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WebMessageListenerJS.swift"
+  : [1684811888, 275605722]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PluginScriptsJS/WindowIdJS.swift": [1684811887, 986648267]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PullToRefresh/PullToRefreshControl.swift": [1684811887, 573815569]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PullToRefresh/PullToRefreshDelegate.swift": [1684811887, 548757766]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/PullToRefresh/PullToRefreshOptions.swift": [1684811887, 562208219]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/ChromeSafariBrowserManager.swift"
+  : [1684811888, 693212528]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/SafariBrowserOptions.swift"
+  : [1684811888, 705138061]
+  ? "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SafariViewController/SafariViewController.swift"
+  : [1684811888, 723284973]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/SwiftFlutterPlugin.swift": [1684811888, 338008661]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/ClientCertChallenge.swift": [1684811888, 654379043]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/DownloadStartRequest.swift": [1684811888, 501661942]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/HitTestResult.swift": [1684811888, 649267127]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/NSAttributedString.swift": [1684811888, 520246382]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/PluginScript.swift": [1684811888, 416613846]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/SecCertificate.swift": [1684811888, 486955163]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/ServerTrustChallenge.swift": [1684811888, 483190971]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/Size2D.swift": [1684811888, 566390063]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/SslCertificate.swift": [1684811888, 634080882]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/SslError.swift": [1684811888, 689472744]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/UIColor.swift": [1684811888, 659490678]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/URLAuthenticationChallenge.swift": [1684811888, 559757469]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/URLCredential.swift": [1684811888, 639646746]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/URLProtectionSpace.swift": [1684811888, 477605888]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/URLRequest.swift": [1684811888, 685258205]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/URLResponse.swift": [1684811888, 644295759]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/UserScript.swift": [1684811888, 675105195]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKContentWorld.swift": [1684811888, 443386845]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKFrameInfo.swift": [1684811888, 456261113]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKNavigationAction.swift": [1684811888, 472268962]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKNavigationResponse.swift": [1684811888, 467326011]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKSecurityOrigin.swift": [1684811888, 680413041]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKUserContentController.swift": [1684811888, 496254986]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WKWindowFeatures.swift": [1684811888, 524538664]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessage.swift": [1684811888, 450302303]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessageChannel.swift": [1684811888, 513946398]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessageListener.swift": [1684811888, 463026251]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebMessagePort.swift": [1684811888, 428746815]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Types/WebViewTransport.swift": [1684811888, 665921334]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/Util.swift": [1684811887, 872872568]
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/ios/Classes/WKProcessPoolManager.swift": [1684811888, 286503871]

@@ -1,0 +1,61 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCACycfc",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginC6handle_6resultySo0G10MethodCallC_yypSgctF",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCMn",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginC6handle_6resultySo0G10MethodCallC_yypSgctFTq",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCfD",
+            "_emoji_picker_flutterVersionNumber",
+            "_Swift50Overrides",
+            "_emoji_picker_flutterVersionString",
+            "_Swift51Overrides",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCMa",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCACycfC",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginCN",
+            "_$s20emoji_picker_flutter29SwiftEmojiPickerFlutterPluginC8register4withySo0gH9Registrar_p_tFZ"
+          ],
+          "objc_class": [
+            "EmojiPickerFlutterPlugin",
+            "PodsDummy_emoji_picker_flutter",
+            "_TtC20emoji_picker_flutter29SwiftEmojiPickerFlutterPlugin"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/emoji_picker_flutter.framework/emoji_picker_flutter"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

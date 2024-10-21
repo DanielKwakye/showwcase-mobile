@@ -1,0 +1,7 @@
+enum SeriesStatus {
+  initial, fetchSeriesInProgress, fetchSeriesFailed, fetchSeriesSuccessful, fetchSeriesPreviewInProgress, fetchSeriesPreviewFailed, fetchSeriesPreviewSuccessful, reportSeriesInProgress, reportSeriesFailed, reportSeriesSuccessful,
+  setSeriesPreviewCompleted, setSeriesPreviewInProgress, seriesRatingStatsFetching, seriesRatingStatsFetchingFailed, seriesRatingStatsFetchingSuccessful, seriesRatingCreating, seriesRatingCreatingFailed, seriesRatingCreatingSuccessful, fetchSeriesRatingListInProgress, fetchSeriesRatingListFailed, fetchSeriesRatingListSuccessful,
+  markProjectAsCompleteInProgress, markProjectAsCompleteFailed, markProjectAsCompleteSuccessful,
+  updateSeriesShowInProgress, updateSeriesShowCompleted,
+  updateSeriesPreviewShowInProgress, updateSeriesPreviewShowCompleted,
+}

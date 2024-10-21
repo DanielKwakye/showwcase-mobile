@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/build/ios/Release-iphoneos/keyboard_emoji_picker/keyboard_emoji_picker.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/build/ios/Release-iphoneos/keyboard_emoji_picker/keyboard_emoji_picker.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "keyboard_emoji_picker-Swift.h",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/keyboard_emoji_picker.build/unextended-interface-header.h",
+    }]
+    }]
+}

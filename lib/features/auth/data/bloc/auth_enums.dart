@@ -1,0 +1,26 @@
+enum AuthStatus {
+  initial,
+  loginInProgress,loginFailed,loginSuccessful,
+  submitEmailForValidationInProgress, submitEmailForValidationFailed, submitEmailForValidationSuccessful,
+  submitEmailForValidationResendInProgress, submitEmailForValidationResendFailed, submitEmailForValidationResendSuccessful,
+  authenticateWithEmailInProgress, authenticateWithEmailFailed, authenticateWithEmailSuccessful,
+  logoutInProgress, logoutCompleted,
+  checkIfUsernameExistsInProgress, checkIfUsernameExistsFailed, checkIfUsernameExistsSuccessful,
+  checkIfEmailExistsInProgress, checkIfEmailExistsFailed, checkIfEmailExistsSuccessful,
+  updateAuthUserDataInProgress, updateAuthUserDataFailed, updateAuthUserDataSuccessful,
+  optimisticUpdateAuthUserDataInProgress, optimisticUpdateAuthUserDataFailed, optimisticUpdateAuthUserDataSuccessful,
+  updateAuthUserDataSuccessfulOnLocal,
+  fetchInterestsInProgress, fetchInterestsFailed, fetchInterestsSuccessful,
+  selectGetStartedReasonInProgress, selectGetStartedReasonCompleted, selectInterestInProgress, selectInterestCompleted,
+  updateInterestsInProgress, updateInterestsFailed, updateInterestsSuccessful,
+  markOnboardingAsCompleteInProgress, markOnboardingAsCompleteFailed, markOnboardingAsCompleteSuccessful, markOnboardingAsCompleteSuccessfulWithOptionToContinue, updateAuthUserSettingInProgress, updateAuthUserSettingFailed, updateAuthUserSettingSuccessful, fetchIndustriesInProgress, fetchIndustriesFailed, fetchIndustriesSuccessful, resetStateInProgress, resetStateCompleted, deleteAccountLoading, deleteAccountError, deleteAccountSuccessful
+
+}
+
+enum GetStartedReason {
+  connectWithCommunity, lookingForJobs
+}
+
+enum AuthBroadcastAction {
+  update, logout
+}

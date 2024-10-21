@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer-master.swiftdeps"
+  },
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/HLSCachingReverseProxyServer/Sources/HLSCachingReverseProxyServer/HLSCachingReverseProxyServer.swift" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.o",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer.swiftdeps",
+    "swiftmodule" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/HLSCachingReverseProxyServer.build/Objects-normal/arm64/HLSCachingReverseProxyServer~partial.swiftmodule"
+  }
+}

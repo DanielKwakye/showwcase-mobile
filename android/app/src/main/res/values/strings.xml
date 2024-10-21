@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace "343254889799245" with your Facebook App ID here. -->
+    <string name="facebook_app_id">757790718772272</string>
+    <string name="asset_statements" translatable="false">[{"include": "https://www.showwcase.com/.well-known/assetlinks.json"}]</string>
+</resources>

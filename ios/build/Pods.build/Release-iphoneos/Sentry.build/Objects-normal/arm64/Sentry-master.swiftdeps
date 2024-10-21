@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "35594d69dad0c1aeb37f9d112372f2ba158a1b0fa3395c7a0fb2d226510fb1c9"
+build_start_time: [1697256049, 683316000]
+build_end_time: [1697256090, 439986000]
+inputs:
+  "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/Sentry/Sources/Swift/Sentry.swift": [1697255942, 35116451]

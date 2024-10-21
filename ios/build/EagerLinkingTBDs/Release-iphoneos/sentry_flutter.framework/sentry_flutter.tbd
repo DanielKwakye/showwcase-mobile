@@ -1,0 +1,67 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC6handle_6resultySo0D10MethodCallC_yypSgctFTq",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCfD",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC10slowFrames33_A18E231F77C6E64110D67316537EB9F2LLSuvpfi",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC11totalFrames33_A18E231F77C6E64110D67316537EB9F2LLSuvpfi",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC58$__lazy_storage_$_iso8601FormatterWithMillisecondPrecision33_A18E231F77C6E64110D67316537EB9F2LLSo06NSDateJ0CSgvpfi",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCACycfC",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCACycfc",
+            "_Swift50Overrides",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC8register4withySo0dE9Registrar_p_tFZ",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC34$__lazy_storage_$_iso8601Formatter33_A18E231F77C6E64110D67316537EB9F2LLSo06NSDateJ0CSgvpfi",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC6handle_6resultySo0D10MethodCallC_yypSgctF",
+            "_sentry_flutterVersionString",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC37didReceiveDidBecomeActiveNotification33_A18E231F77C6E64110D67316537EB9F2LLSbvpfi",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCN",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleC12frozenFrames33_A18E231F77C6E64110D67316537EB9F2LLSuvpfi",
+            "_Swift51Overrides",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCMn",
+            "_$s14sentry_flutter24SentryFlutterPluginAppleCMa",
+            "_sentry_flutterVersionNumber"
+          ],
+          "objc_class": [
+            "SentryFlutterPlugin",
+            "PodsDummy_sentry_flutter",
+            "_TtC14sentry_flutter24SentryFlutterPluginApple"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/sentry_flutter.framework/sentry_flutter"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

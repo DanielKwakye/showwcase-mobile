@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master.swiftconstvalues",
+    "dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master.d",
+    "diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master.dia",
+    "emit-module-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/flutter_secure_storage-master.swiftdeps"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/ios/Classes/FlutterSecureStorage.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/FlutterSecureStorage.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/FlutterSecureStorage.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/FlutterSecureStorage.o"
+  },
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/ios/Classes/SwiftFlutterSecureStoragePlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/SwiftFlutterSecureStoragePlugin.o",
+    "llvm-bc" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/SwiftFlutterSecureStoragePlugin.bc",
+    "object" : "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/flutter_secure_storage.build/Objects-normal/arm64/SwiftFlutterSecureStoragePlugin.o"
+  }
+}

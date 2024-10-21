@@ -1,0 +1,63 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_syncfusion_flutter_pdfviewerVersionString",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCMn",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCfD",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginC8register4withySo0fI9Registrar_p_tFZ",
+            "_Swift50Overrides",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCACycfC",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginC10dispatcherSo17OS_dispatch_queueCvpfi",
+            "_Swift51Overrides",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginC6handle_6resultySo0F10MethodCallC_yypSgctFTq",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCACycfc",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCN",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginC12documentRepoSDySSSo16CGPDFDocumentRefaSgGvpfi",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginCMa",
+            "_$s28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPluginC6handle_6resultySo0F10MethodCallC_yypSgctF",
+            "_syncfusion_flutter_pdfviewerVersionNumber"
+          ],
+          "objc_class": [
+            "PodsDummy_syncfusion_flutter_pdfviewer",
+            "_TtC28syncfusion_flutter_pdfviewer37SwiftSyncfusionFlutterPdfViewerPlugin",
+            "SyncfusionFlutterPdfViewerPlugin"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/syncfusion_flutter_pdfviewer.framework/syncfusion_flutter_pdfviewer"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

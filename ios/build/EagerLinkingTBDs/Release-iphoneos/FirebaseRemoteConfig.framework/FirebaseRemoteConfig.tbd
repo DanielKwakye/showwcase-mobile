@@ -1,0 +1,71 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kDatabaseLoadTimeoutSecs",
+            "_FirebaseRemoteConfigVersionString",
+            "_FIRNamespaceGoogleMobilePlatform",
+            "_FIRRemoteConfigThrottledEndTimeInSecondsKey",
+            "_FIRRemoteConfigUpdateErrorDomain",
+            "_FirebaseRemoteConfigVersionNumber",
+            "_FIRRemoteConfigErrorDomain",
+            "_FIRRemoteConfigActivateNotification"
+          ],
+          "objc_class": [
+            "FIRRemoteConfig",
+            "RCNPersonalization",
+            "PodsDummy_FirebaseRemoteConfig",
+            "FIRRemoteConfigUpdate",
+            "FIRConfigUpdateListenerRegistration",
+            "FIRRemoteConfigValue",
+            "RCNConfigRealtime",
+            "RCNConfigExperiment",
+            "FIRRemoteConfigSettings",
+            "RCNConfigContent",
+            "RCNConfigFetch",
+            "RCNUserDefaultsManager",
+            "RCNConfigSettings",
+            "RCNConfigDBManager",
+            "FIRRemoteConfigComponent"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FIRRemoteConfigDeviceContextWithProjectIdentifier",
+            "_FIRRemoteConfigAppBuildVersion",
+            "_FIRRemoteConfigDeviceLocale",
+            "_FIRRemoteConfigTimezone",
+            "_FIRRemoteConfigAppVersion",
+            "_FIRRemoteConfigAppManagerLocales",
+            "_FIRRemoteConfigPodVersion",
+            "_FIRRemoteConfigDeviceSubtype",
+            "_FIRRemoteConfigDeviceCountry",
+            "_FIRRemoteConfigHasDeviceContextChanged",
+            "_FIRRemoteConfigFirebaseLocaleMap"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseRemoteConfig.framework/FirebaseRemoteConfig"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

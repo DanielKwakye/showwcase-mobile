@@ -1,0 +1,65 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC7channelSo20FlutterMethodChannelCSgvMZ",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCMa",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCN",
+            "_Swift50Overrides",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC8register4withySo07FlutterG9Registrar_p_tFZ",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCACycfc",
+            "_Swift51Overrides",
+            "_keyboard_emoji_pickerVersionNumber",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC7channelSo20FlutterMethodChannelCSgvgZ",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCACycfC",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC7channelSo20FlutterMethodChannelCSgvpZ",
+            "_keyboard_emoji_pickerVersionString",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC7channelSo20FlutterMethodChannelCSgvau",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCfD",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginC7channelSo20FlutterMethodChannelCSgvsZ",
+            "_$s21keyboard_emoji_picker25KeyboardEmojiPickerPluginCMn"
+          ],
+          "objc_class": [
+            "PodsDummy_keyboard_emoji_picker",
+            "_TtC21keyboard_emoji_picker25KeyboardEmojiPickerPlugin"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/keyboard_emoji_picker.framework/keyboard_emoji_picker"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12.1",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

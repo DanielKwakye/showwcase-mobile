@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "873eb22ceb2495bb4972c72375faa9d505361a4ee568ab1f08231741d662ed97"
+build_start_time: [1697256075, 693581000]
+build_end_time: [1697256328, 35664000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/git/betterplayer-f0a340d64715c4c9fdf68fdc0338fd7d5ecf51f8/ios/Classes/CacheManager.swift": [1692869509, 589871882]
+  "/Users/danielkwakye/.pub-cache/git/betterplayer-f0a340d64715c4c9fdf68fdc0338fd7d5ecf51f8/ios/Classes/CachingPlayerItem.swift": [1692869509, 590016365]

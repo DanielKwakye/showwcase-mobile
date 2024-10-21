@@ -1,0 +1,15 @@
+enum CompanyStatus {
+  initial,
+  searchCompaniesFailed, searchCompaniesSuccessful, searchCompaniesInProgress,
+  getCompanyBySlugInProgress, getCompanyBySlugFailed, getCompanyBySlugSuccessful,
+  getCompanySizesInProgress, getCompanySizesFailed, getCompanySizesSuccessful,
+  getCompanyIndustriesInProgress, getCompanyIndustriesFailed, getCompanyIndustriesSuccessful,
+  getCompanyStagesInProgress, getCompanyStagesSuccessful, getCompanyStagesFailed,
+  createCompanyInProgress, createCompanyFailed, createCompanySuccessful,
+  companiesFetching,
+  companiesFetchedSuccessful,
+  companiesFetchError,
+  companiesJobsFetching,
+  companiesJobsFetchedSuccessful,
+  companiesJobsFetchError,
+}

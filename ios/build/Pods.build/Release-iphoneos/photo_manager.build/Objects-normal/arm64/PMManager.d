@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/build/Pods.build/Release-iphoneos/photo_manager.build/module.modulemap \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMManager.m \
+  /Users/danielkwakye/Documents/Flutter\ workspace/showwcase_v3/ios/Pods/Target\ Support\ Files/photo_manager/photo_manager-prefix.pch \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/NSString+PM_COMMON.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PHAsset+PM_COMMON.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMLogUtils.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PHAssetCollection+PM_COMMON.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PHAssetResource+PM_COMMON.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMAssetPathEntity.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMCacheContainer.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMConvertUtils.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMBaseFilter.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMFolderUtils.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMImageUtil.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMThumbLoadOption.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMManager.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMFileHelper.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/PMImport.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Modules/module.modulemap \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/Flutter.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/danielkwakye/flutter/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMProgressHandlerProtocol.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMResultHandler.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMConvertProtocol.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMMD5Utils.h \
+  /Users/danielkwakye/.pub-cache/hosted/pub.dev/photo_manager-2.7.1/ios/Classes/core/PMPathFilterOption.h

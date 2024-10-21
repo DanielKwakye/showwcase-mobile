@@ -1,0 +1,156 @@
+import 'dart:async';
+
+import 'package:dartz/dartz.dart' as dartz;
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
+import 'package:showwcase_v3/core/utils/constants.dart';
+import 'package:showwcase_v3/core/utils/extensions.dart';
+import 'package:showwcase_v3/core/utils/theme.dart';
+import 'package:showwcase_v3/core/utils/widget_view.dart';
+import 'package:showwcase_v3/features/dashboard/data/bloc/dashboard_shows_cubit.dart';
+import 'package:showwcase_v3/features/dashboard/presentation/widgets/dasboard_show_item.dart';
+import 'package:showwcase_v3/features/shared/presentation/widgets/custom_adaptive_circular_indicator.dart';
+import 'package:showwcase_v3/features/shared/presentation/widgets/custom_emtpy_content_widget.dart';
+import 'package:showwcase_v3/features/shared/presentation/widgets/custom_no_connection_widget.dart';
+import 'package:showwcase_v3/features/shared/presentation/widgets/custom_shared_refresh_indicator.dart';
+import 'package:showwcase_v3/features/shows/data/bloc/shows_state.dart';
+import 'package:showwcase_v3/features/shows/data/models/show_model.dart';
+
+
+class DashboardShowPage extends StatefulWidget {
+
+  const DashboardShowPage({Key? key}) : super(key: key);
+
+  @override
+  DashboardShowPageController createState() => DashboardShowPageController();
+}
+
+////////////////////////////////////////////////////////
+/// View is dumb, and purely declarative.
+/// Easily references values on the controller and widget
+////////////////////////////////////////////////////////
+
+class _DashboardShowPageView extends WidgetView<DashboardShowPage, DashboardShowPageController> {
+
+  const _DashboardShowPageView(DashboardShowPageController state) : super(state);
+
+  @override
+  Widget build(BuildContext context) {
+
+    final theme = Theme.of(context);
+
+    return CustomSharedRefreshIndicator(
+      onRefresh: () async {
+        final response = await state.fetchShows(0);
+        if(response.isLeft()){
+          return;
+        }
+        final shows = response.asRight();
+        state.pagingController.value = PagingState(
+            nextPageKey: 1,
+            itemList: shows
+        );
+
+      },
+      child: PagedListView<int, ShowModel>.separated(
+        padding: const EdgeInsets.only(top: 0, left: 0, right: 0),
+        pagingController: state.pagingController,
+        builderDelegate: PagedChildBuilderDelegate<ShowModel>(
+          itemBuilder: (context, item, index) {
+            return Container(
+              padding: const EdgeInsets.symmetric(horizontal: showSymmetricPadding, vertical: 10),
+              color: theme.brightness == Brightness.dark ? kAppCardDarkModeBackground : kAppWhite,
+              child: BlocSelector<DashboardShowsCubit, ShowsState, ShowModel>(
+                selector: (state) {
+
+                  return state.shows.firstWhere((element) => element.id == item.id);
+                },
+                builder: (context, show) {
+                  return DashboardItemWidget(showModel: show);
+                },
+              )
+              ,
+            );
+          },
+          firstPageProgressIndicatorBuilder: (_) => const Center(child: CustomAdaptiveCircularIndicator(),),
+          newPageProgressIndicatorBuilder: (_) => const Padding(
+              padding: EdgeInsets.only(top: 20, bottom: 20),
+              child: SizedBox(
+                height: 100, width: double.maxFinite,
+                child: Align(
+                  alignment: Alignment.topCenter,
+                  child: CustomAdaptiveCircularIndicator(),
+                ),
+              )),
+          noItemsFoundIndicatorBuilder: (_) => const CustomEmptyContentWidget(),
+          noMoreItemsIndicatorBuilder: (_) => const SizedBox.shrink(),
+          firstPageErrorIndicatorBuilder: (_) => const CustomNoConnectionWidget(
+            title:
+            "Restore connection and swipe to refresh ...",
+          ),
+          newPageErrorIndicatorBuilder: (_) => const SizedBox.shrink(),
+        ),
+        separatorBuilder: (context, index) => Container(
+          height: 7,
+          color: theme.brightness == Brightness.light ? theme.colorScheme.surface : theme.colorScheme.background,
+        ),
+      ),
+    );
+
+  }
+
+}
+
+////////////////////////////////////////////////////////
+/// Controller holds state, and all business logic
+////////////////////////////////////////////////////////
+
+class DashboardShowPageController extends State<DashboardShowPage> with AutomaticKeepAliveClientMixin{
+
+  // page key is page index. Starting from 0, 1, 2 .........
+  final PagingController<int, ShowModel> pagingController = PagingController(firstPageKey: 0, invisibleItemsThreshold: defaultPageSize);
+  late DashboardShowsCubit bookmarkShowsCubit;
+
+  @override
+  Widget build(BuildContext context) {
+    super.build(context);
+    return _DashboardShowPageView(this);
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    bookmarkShowsCubit = context.read<DashboardShowsCubit>();
+    pagingController.addPageRequestListener((pageKey) async {
+      final response = await fetchShows(pageKey);
+      if(response.isLeft()){
+        pagingController.error = response.asLeft();
+        return;
+      }
+      final newItems = response.asRight();
+      final isLastPage = newItems.isEmpty;
+      if (isLastPage) {
+        pagingController.appendLastPage(newItems);
+      } else {
+        final nextPageKey = pageKey + 1;
+        pagingController.appendPage(newItems, nextPageKey);
+      }
+    });
+
+  }
+
+  Future<dartz.Either<String, List<ShowModel>>> fetchShows(int pageKey) async {
+    return await bookmarkShowsCubit.fetchDashboardShows(pageKey);
+  }
+
+
+  @override
+  void dispose() {
+    super.dispose();
+  }
+
+  @override
+  bool get wantKeepAlive => true;
+
+}

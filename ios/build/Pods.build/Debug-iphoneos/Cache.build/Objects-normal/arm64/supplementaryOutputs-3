@@ -1,0 +1,18 @@
+"/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/Cache/Source/Shared/Library/DataSerializer.swift":
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/DataSerializer.swiftdeps"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/DataSerializer.swiftconstvalues"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/DataSerializer.d"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/DataSerializer.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/DataSerializer.dia"
+"/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/Cache/Source/Shared/Extensions/Date+Extensions.swift":
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/Date+Extensions.d"
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/Date+Extensions.swiftconstvalues"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/Date+Extensions.dia"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/Date+Extensions.o"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/Date+Extensions.swiftdeps"
+"/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/Pods/Cache/Source/Shared/Storage/AsyncStorage.swift":
+  const-values: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/AsyncStorage.swiftconstvalues"
+  object: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/AsyncStorage.o"
+  diagnostics: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/AsyncStorage.dia"
+  dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/AsyncStorage.d"
+  swift-dependencies: "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/Cache.build/Objects-normal/arm64/AsyncStorage.swiftdeps"

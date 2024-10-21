@@ -1,0 +1,3 @@
+enum RoadmapStatus {
+  initial, fetchRoadmapsFailed, fetchRoadmapsSuccessful, fetchRoadmapsInProgress, fetchRoadmapReadingListInProgress, fetchRoadmapReadingListFailed, fetchRoadmapReadingListSuccessful, roadmapsPreviewLoading, roadmapsPreviewError, roadmapsPreviewSuccessful, setRoadmapPreviewInProgress, setPreviewPreviewCompleted,
+}

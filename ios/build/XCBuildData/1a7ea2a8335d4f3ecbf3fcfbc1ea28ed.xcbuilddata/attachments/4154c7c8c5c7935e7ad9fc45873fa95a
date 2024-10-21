@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/better_player/better_player.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/better_player/better_player.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "better_player-Swift.h",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/better_player.build/unextended-interface-header.h",
+    }]
+    }]
+}

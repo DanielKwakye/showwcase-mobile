@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/pasteboard/pasteboard.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/pasteboard.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Debug-iphoneos/pasteboard/pasteboard.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "pasteboard-Swift.h",
+      'external-contents': "/Users/danielkwakye/Documents/Flutter workspace/showwcase_v3/ios/build/Pods.build/Debug-iphoneos/pasteboard.build/unextended-interface-header.h",
+    }]
+    }]
+}

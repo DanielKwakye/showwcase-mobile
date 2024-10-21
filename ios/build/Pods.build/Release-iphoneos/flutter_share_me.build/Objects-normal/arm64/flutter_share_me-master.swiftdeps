@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "f1fbf1c7020069509170edc7a2714080c81235be50363915faee0756fb928055"
+build_start_time: [1697256061, 236786000]
+build_end_time: [1697256328, 817541000]
+inputs:
+  "/Users/danielkwakye/.pub-cache/hosted/pub.dev/flutter_share_me-1.4.0/ios/Classes/SwiftFlutterShareMePlugin.swift": [1684811877, 422418003]
